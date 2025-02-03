@@ -1,3 +1,6 @@
+/* changes have made*/
+
+
 document.querySelector;
 document.querySelector("#push").onclick=function(){
     if(document.querySelector("#new_task input").value.length==0){
